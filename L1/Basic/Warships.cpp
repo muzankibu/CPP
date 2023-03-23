@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     cout<<"Hello";
+    cout<<"\nWelcome to Battleship OG";
 
 bool crdnt[4][4]={{ 0, 1, 1, 0 },{ 0, 0, 0, 0 },{ 0, 0, 1, 0 },{ 0, 0, 1, 0 }};
   int hit=0;
